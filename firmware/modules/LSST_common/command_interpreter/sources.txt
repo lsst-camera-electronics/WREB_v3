@@ -1,0 +1,2 @@
+vhdl work rtl/WREB_v3_commands_package.vhd
+vhdl work rtl/WREB_v3_cmd_interpreter.vhd
